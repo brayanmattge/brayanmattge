@@ -2,7 +2,7 @@
 
 I'm a fullstack developer working with modern technologies
 
-## Technologies 🕶️
+## Technologies 💻
 
 <div style="display: inline_block"><br>
   <img align="center" alt="icon-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
@@ -19,6 +19,9 @@ I'm a fullstack developer working with modern technologies
 </div>
 
 ##
+
+📫 E-mail: brayanvmattge@gmail.com
+📱 Phone: +55 (47) 9 9142-9398
 
 <!--
 **brayanmattge/brayanmattge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
